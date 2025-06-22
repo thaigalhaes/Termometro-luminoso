@@ -61,7 +61,7 @@ Veja as imagens que mostram os diferentes estados dos LEDs conforme a temperatur
     <td align="center"><strong>Todos LEDs Desligados</strong></td>
     <td align="center"><strong>Todos LEDs Verdes</strong></td>
     <td align="center"><strong>1 LED Amarelo</strong></td>
-    <td align="center"><strong>1 LED Vermelho</strong></td>
+    <td align="center"><strong>Todos LEDs acessos</strong></td>
   </tr>
   <tr>
     <td><img src="https://github.com/thaigalhaes/Termometro-luminoso/blob/main/LEDs%20Desligados.jpg" width="150"/></td>
