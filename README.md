@@ -64,10 +64,10 @@ Veja as imagens que mostram os diferentes estados dos LEDs conforme a temperatur
     <td align="center"><strong>1 LED Vermelho</strong></td>
   </tr>
   <tr>
-    <td><img src="link-da-imagem-desligado.jpg" width="150"/></td>
-    <td><img src="link-da-imagem-verde.jpg" width="150"/></td>
-    <td><img src="link-da-imagem-amarelo.jpg" width="150"/></td>
-    <td><img src="link-da-imagem-vermelho.jpg" width="150"/></td>
+    <td><img src="https://github.com/thaigalhaes/Termometro-luminoso/blob/main/LEDs%20Desligados.jpg" width="150"/></td>
+    <td><img src="https://github.com/thaigalhaes/Termometro-luminoso/blob/main/LEDs%20Verdes.jpg" width="150"/></td>
+    <td><img src="https://github.com/thaigalhaes/Termometro-luminoso/blob/main/LED%20Amarelo.jpg" width="150"/></td>
+    <td><img src="https://github.com/thaigalhaes/Termometro-luminoso/blob/main/LED%20Vermelho.jpg" width="150"/></td>
   </tr>
 </table>
 
